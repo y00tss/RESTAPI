@@ -1,6 +1,6 @@
 .idea
 cmdcommands
-app/.env/
+app/.env
 .venv/
 venv/
 .pyre/
