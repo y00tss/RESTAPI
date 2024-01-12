@@ -4,3 +4,4 @@ app/.env
 .venv/
 venv/
 .pyre/
+requirements.dev.txt
